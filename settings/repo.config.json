@@ -1,0 +1,11 @@
+{
+  "displayTitle": "Real Estate Data APIs",
+  "tagline": "Property listings, valuations, rental intelligence, agent research, and market data APIs.",
+  "icon": "🏠",
+  "megaListSource": "https://raw.githubusercontent.com/cporter202/API-mega-list/main/real-estate-apis-1089/README.md",
+  "coreclawSource": "https://raw.githubusercontent.com/cporter202/coreclaw-api-directory/main/real-estate/README.md",
+  "audience": ["Real estate apps", "Agents and brokers", "Investors", "Market researchers", "PropTech builders"],
+  "useCases": ["Property listing search", "Rental and sales monitoring", "FSBO and investor research", "Valuation and market dashboards", "Location and neighborhood intelligence"],
+  "topics": ["real-estate", "property-data", "proptech", "real-estate-api", "web-scraping", "market-research", "apis", "apify", "coreclaw"]
+}
+
