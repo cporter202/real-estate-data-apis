@@ -40,6 +40,7 @@ The live catalog is split into two useful starting points:
       <p><a href="https://apify.com/?fpr=p2hrc6"><strong>Explore Apify with my referral →</strong></a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://www.coreclaw.com/store/categories?fpr=chris69"><img src="./assets/coreclaw-banner.png" alt="CoreClaw web data workers" width="100%" /></a>
       <h3>⚡ CoreClaw worker catalog</h3>
       <p>Focused web-data workers with API and MCP access for practical real-estate extraction.</p>
       <p><a href="https://www.coreclaw.com/store/categories?fpr=chris69"><strong>Explore CoreClaw with my referral →</strong></a></p>
