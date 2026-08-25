@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/hero.svg" alt="Real Estate Data APIs — listings, valuations, rentals, and market intelligence" width="100%" />
+
+<br />
+
 # 🏠 Real Estate Data APIs
 
 **Property listings, valuations, rental intelligence, agent research, and market data APIs.**
@@ -7,6 +11,13 @@
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/real-estate-data-apis?style=for-the-badge)](https://github.com/cporter202/real-estate-data-apis/stargazers)
 [![Daily sync](https://img.shields.io/github/actions/workflow/status/cporter202/real-estate-data-apis/daily-sync.yml?label=daily%20sync&style=for-the-badge)](https://github.com/cporter202/real-estate-data-apis/actions/workflows/daily-sync.yml)
 [![License](https://img.shields.io/github/license/cporter202/real-estate-data-apis?style=for-the-badge)](LICENSE)
+
+<p>
+  <a href="#featured-provider-paths"><strong>Featured Providers</strong></a> ·
+  <a href="catalog/README.md"><strong>Browse 1,089 Apify APIs</strong></a> ·
+  <a href="featured/coreclaw.md"><strong>Browse CoreClaw Workers</strong></a> ·
+  <a href="#start-with-a-job-to-be-done"><strong>Start Building</strong></a>
+</p>
 
 </div>
 
@@ -18,6 +29,29 @@ The live catalog is split into two useful starting points:
 
 - [Browse Apify real-estate APIs](catalog/README.md) — a large directory of ready-to-use actors.
 - [Browse CoreClaw real-estate workers](featured/coreclaw.md) — focused workers with API and MCP access.
+
+## Featured provider paths
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Apify actor catalog</h3>
+      <p>Large, searchable coverage for property listings, agents, locations, rentals, and market research.</p>
+      <p><a href="https://apify.com/?fpr=p2hrc6"><strong>Explore Apify with my referral →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ CoreClaw worker catalog</h3>
+      <p>Focused web-data workers with API and MCP access for practical real-estate extraction.</p>
+      <p><a href="https://www.coreclaw.com/store/categories?fpr=chris69"><strong>Explore CoreClaw with my referral →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+| Coverage snapshot | Current directory |
+|---|---:|
+| Apify real-estate actors | **1,089** |
+| CoreClaw real-estate workers | **1** |
+| Sync cadence | **Daily** |
 
 ## Start with a job to be done
 
@@ -63,4 +97,3 @@ The source URLs and update behavior are documented in [settings/repo.config.json
 - [API Mega List](https://github.com/cporter202/API-mega-list)
 - [Ecommerce Intelligence APIs](https://github.com/cporter202/ecommerce-intelligence-apis)
 - [Job Data APIs and Scrapers](https://github.com/cporter202/job-data-apis-and-scrapers)
-

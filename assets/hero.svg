@@ -1,0 +1,10 @@
+<svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Real Estate Data APIs</title>
+  <desc id="desc">A visual banner for a directory of property and real-estate data APIs.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="0.55" stop-color="#183B56"/><stop offset="1" stop-color="#0F766E"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient></defs>
+  <rect width="1600" height="430" rx="28" fill="url(#bg)"/>
+  <circle cx="1390" cy="35" r="260" fill="#5EEAD4" opacity="0.10"/><circle cx="1515" cy="330" r="210" fill="#67E8F9" opacity="0.11"/>
+  <path d="M1130 360V170L1280 70L1430 170V360H1130Z" fill="#0B2535" stroke="url(#glow)" stroke-width="5"/><path d="M1190 360V220H1370V360" stroke="#A7F3D0" stroke-width="5"/><path d="M1250 145V360M1310 145V360" stroke="#67E8F9" stroke-width="5" opacity="0.8"/><path d="M1100 175L1280 45L1460 175" stroke="#CCFBF1" stroke-width="7" stroke-linecap="round"/>
+  <text x="90" y="160" fill="#CCFBF1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">CURATED API DIRECTORY</text><text x="90" y="245" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">Real Estate Data APIs</text><text x="94" y="302" fill="#A7F3D0" font-family="Arial, Helvetica, sans-serif" font-size="28">Listings · valuations · rentals · market intelligence</text><rect x="94" y="340" width="290" height="8" rx="4" fill="url(#glow)"/>
+</svg>
+
