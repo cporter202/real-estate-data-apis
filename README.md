@@ -25,10 +25,15 @@
 
 A focused directory of APIs and web-data workers for building real-estate software, investment research tools, rental dashboards, property alerts, and market-intelligence workflows.
 
-The live catalog is split into two useful starting points:
+The API lists are the main content of this repository:
 
 - [Browse Apify real-estate APIs](catalog/README.md) — a large directory of ready-to-use actors.
 - [Browse CoreClaw real-estate workers](featured/coreclaw.md) — focused workers with API and MCP access.
+
+| API list | What you will find |
+|---|---|
+| [Apify API list](catalog/README.md) | The full real-estate API directory, with one entry per actor and description. |
+| [CoreClaw API list](featured/coreclaw.md) | The full real-estate worker directory, with worker IDs and capabilities. |
 
 ## Featured provider paths
 
@@ -79,7 +84,7 @@ Real-estate apps, agents and brokers, investors, market researchers, and PropTec
 
 ## Provider notes
 
-This repository preserves referral parameters present in the upstream catalogs where available. See [SPONSORED_PARTNERS.md](SPONSORED_PARTNERS.md) for the disclosure. A referral link is not an endorsement of fit, quality, legality, or pricing.
+This repository preserves referral parameters present in the API lists where available. See [LINKS.md](LINKS.md) for a neutral referral-link note. A referral link is not an endorsement of fit, quality, legality, or pricing.
 
 Use public data responsibly. Review provider documentation, platform terms, privacy obligations, rate limits, and applicable real-estate regulations before launching a production workflow.
 
