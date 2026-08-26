@@ -13,9 +13,7 @@
 [![License](https://img.shields.io/github/license/cporter202/real-estate-data-apis?style=for-the-badge)](LICENSE)
 
 <p>
-  <a href="#featured-provider-paths"><strong>Featured Providers</strong></a> ·
-  <a href="catalog/README.md"><strong>Browse 1,089 Apify APIs</strong></a> ·
-  <a href="featured/coreclaw.md"><strong>Browse CoreClaw Workers</strong></a> ·
+  <a href="catalog/README.md"><strong>Browse API Lists</strong></a> ·
   <a href="#start-with-a-job-to-be-done"><strong>Start Building</strong></a>
 </p>
 
@@ -28,30 +26,12 @@ A focused directory of APIs and web-data workers for building real-estate softwa
 The API lists are the main content of this repository:
 
 - [Browse Apify real-estate APIs](catalog/README.md) — a large directory of ready-to-use actors.
-- [Browse CoreClaw real-estate workers](featured/coreclaw.md) — focused workers with API and MCP access.
+- [Browse CoreClaw real-estate APIs](catalog/coreclaw.md) — worker APIs with API and MCP access.
 
 | API list | What you will find |
 |---|---|
 | [Apify API list](catalog/README.md) | The full real-estate API directory, with one entry per actor and description. |
-| [CoreClaw API list](featured/coreclaw.md) | The full real-estate worker directory, with worker IDs and capabilities. |
-
-## Featured provider paths
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Apify actor catalog</h3>
-      <p>Large, searchable coverage for property listings, agents, locations, rentals, and market research.</p>
-      <p><a href="https://apify.com/?fpr=p2hrc6"><strong>Explore Apify with my referral →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.coreclaw.com/store/categories?fpr=chris69"><img src="./assets/coreclaw-banner.png" alt="CoreClaw web data workers" width="100%" /></a>
-      <h3>⚡ CoreClaw worker catalog</h3>
-      <p>Focused web-data workers with API and MCP access for practical real-estate extraction.</p>
-      <p><a href="https://www.coreclaw.com/store/categories?fpr=chris69"><strong>Explore CoreClaw with my referral →</strong></a></p>
-    </td>
-  </tr>
-</table>
+| [CoreClaw API list](catalog/coreclaw.md) | The full real-estate API directory, with worker IDs and capabilities. |
 
 | Coverage snapshot | Current directory |
 |---|---:|
@@ -64,7 +44,7 @@ The API lists are the main content of this repository:
 | If you need to… | Start here |
 |---|---|
 | Search listings or collect property details | [Apify catalog](catalog/README.md) |
-| Find Zillow property data quickly | [CoreClaw workers](featured/coreclaw.md) |
+| Find Zillow property data quickly | [CoreClaw API list](catalog/coreclaw.md) |
 | Build a rental or sales monitoring dashboard | [Rental monitoring playbook](playbooks/rental-monitoring.md) |
 | Research investor or FSBO opportunities | [Investor research playbook](playbooks/investor-research.md) |
 | Compare providers before building | [Provider selection checklist](playbooks/provider-selection.md) |
