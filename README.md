@@ -6,6 +6,18 @@
 
 # 🏠 Real Estate Data APIs
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
 **Property listings, valuations, rental intelligence, agent research, and market data APIs.**
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/real-estate-data-apis?style=for-the-badge)](https://github.com/cporter202/real-estate-data-apis/stargazers)
